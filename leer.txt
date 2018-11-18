@@ -1,0 +1,6 @@
+https://angular-templates.io/tutorials/about/angular-crud-with-firebase
+
+https://github.com/AngularTemplates/angular-firebase-crud
+
+https://www.sassmeister.com/
+https://fontawesome.com/v4.7.0/icons/
